@@ -1,0 +1,35 @@
+{
+  "name": "liri-tell-me",
+  "version": "1.1.1",
+  "description": "LIRI stands for Language Interpretation and Recognition Interface. IT is a command line node app that takes in parameters and returns results based on input from user.",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suman1713/LIRI.git"
+  },
+  "keywords": [
+    "fun",
+    "experiment",
+    "tell",
+    "me",
+    "waht",
+    "to",
+    "do"
+  ],
+  "author": "SUman Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suman1713/LIRI/issues"
+  },
+  "homepage": "https://github.com/suman1713/LIRI#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
+}
